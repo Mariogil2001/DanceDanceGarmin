@@ -1,0 +1,215 @@
+[ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 1; ]
+using Toybox.WatchUi;
+[ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 2; ]
+using Toybox.Graphics;
+[ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 3; ]
+using Toybox.System;
+[ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 4; ]
+using Toybox.Lang;
+[ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 6; ]
+class DanceDanceGarminView extends WatchUi.WatchFace{
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 6; ]
+    <init> {
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 6; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 7; @position = 16; ]
+    private
+    var _animationDelegate;
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 10; ]
+    function initialize() as Void {
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_10_26_13_4_start:
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 11 8 ]
+        %tmp.2 = getv ? :WatchFace;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 12 8 ]
+        %tmp.7 = getv ? :DanceDanceAnimationController;
+        %tmp.4 = newc %tmp.7 ();
+        putv self :_animationDelegate %tmp.4;
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_10_26_13_4_stop:
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 16; ]
+    function onLayout(dc) {
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 22; ]
+    function onShow() {
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_22_22_25_4_start:
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 23 8 ]
+        %tmp.2 = getv ? :_animationDelegate;
+        %tmp.3 = getv function %tmp.2 :handleOnShow;
+        %tmp.5 = self;
+        invoke %tmp.2 %tmp.3(%tmp.5);
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 24 8 ]
+        %tmp.7 = getv ? :_animationDelegate;
+        %tmp.8 = getv function %tmp.7 :play;
+        invoke %tmp.7 %tmp.8();
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_22_22_25_4_stop:
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 30; ]
+    function onHide() {
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_30_22_32_4_start:
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 31 8 ]
+        %tmp.2 = getv ? :_animationDelegate;
+        %tmp.3 = getv function %tmp.2 :handleOnHide;
+        %tmp.5 = self;
+        invoke %tmp.2 %tmp.3(%tmp.5);
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_30_22_32_4_stop:
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 35; ]
+    private
+    function getTimeString() {
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_35_37_49_4_start:
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 36 8 ]
+        [ "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_35_37_49_4_start" "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_35_37_49_4_stop" ]
+        %clockTime.1 = local;
+        %tmp.1 = getm $.Toybox.System;
+        %tmp.2 = getv function %tmp.1 :getClockTime;
+        %tmp.3 = invoke %tmp.1 %tmp.2();
+        lputv %clockTime.1 %tmp.3;
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 39 8 ]
+        [ "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_35_37_49_4_start" "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_35_37_49_4_stop" ]
+        %hour.2 = local;
+        %tmp.4 = lgetv %clockTime.1;
+        %tmp.5 = getv %tmp.4 :hour;
+        lputv %hour.2 %tmp.5;
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 48 8 ]
+        %tmp.6 = getm $.Toybox.Lang;
+        %tmp.7 = getv function %tmp.6 :format;
+        %tmp.8 = "$1$:$2$";
+        %tmp.9 = newa 2;
+        %tmp.11 = lgetv %hour.2;
+        %tmp.12 = dup %tmp.9;
+        %tmp.13 = aputv %tmp.12 0 %tmp.11;
+        %tmp.14 = lgetv %clockTime.1;
+        %tmp.15 = getv %tmp.14 :min;
+        %tmp.16 = getv function %tmp.15 :format;
+        %tmp.17 = "%02d";
+        %tmp.18 = invoke %tmp.15 %tmp.16(%tmp.17);
+        %tmp.19 = dup %tmp.13;
+        %tmp.20 = aputv %tmp.19 1 %tmp.18;
+        %tmp.21 = invoke %tmp.6 %tmp.7(%tmp.8, %tmp.20);
+        ret %tmp.21;
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_35_37_49_4_stop:
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 53; ]
+    private
+    function updateTimeLayer() {
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_start:
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 54 8 ]
+        [ "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_start" "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_stop" ]
+        %dc.1 = local;
+        %tmp.2 = getv ? :_animationDelegate;
+        %tmp.3 = getv function %tmp.2 :getTextLayer;
+        %tmp.4 = invoke %tmp.2 %tmp.3();
+        %tmp.5 = getv function %tmp.4 :getDc;
+        %tmp.6 = invoke %tmp.4 %tmp.5();
+        lputv %dc.1 %tmp.6;
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 55 8 ]
+        [ "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_start" "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_stop" ]
+        %width.2 = local;
+        %tmp.7 = lgetv %dc.1;
+        %tmp.8 = getv function %tmp.7 :getWidth;
+        %tmp.9 = invoke %tmp.7 %tmp.8();
+        lputv %width.2 %tmp.9;
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 56 8 ]
+        [ "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_start" "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_stop" ]
+        %height.3 = local;
+        %tmp.10 = lgetv %dc.1;
+        %tmp.11 = getv function %tmp.10 :getHeight;
+        %tmp.12 = invoke %tmp.10 %tmp.11();
+        lputv %height.3 %tmp.12;
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 59 8 ]
+        [ "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_start" "C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_stop" ]
+        %timeString.4 = local;
+        %tmp.13 = self;
+        %tmp.14 = getv function %tmp.13 :getTimeString;
+        %tmp.15 = invoke %tmp.13 %tmp.14();
+        lputv %timeString.4 %tmp.15;
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 60 8 ]
+        %tmp.16 = lgetv %dc.1;
+        %tmp.17 = getv function %tmp.16 :setColor;
+        %tmp.18 = getm $.Toybox.Graphics;
+        %tmp.19 = getv %tmp.18 :COLOR_TRANSPARENT;
+        %tmp.20 = getm $.Toybox.Graphics;
+        %tmp.21 = getv %tmp.20 :COLOR_TRANSPARENT;
+        invoke %tmp.16 %tmp.17(%tmp.19, %tmp.21);
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 61 8 ]
+        %tmp.22 = lgetv %dc.1;
+        %tmp.23 = getv function %tmp.22 :clear;
+        invoke %tmp.22 %tmp.23();
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 63 8 ]
+        %tmp.24 = lgetv %dc.1;
+        %tmp.25 = getv function %tmp.24 :setColor;
+        %tmp.26 = getm $.Toybox.Graphics;
+        %tmp.27 = getv %tmp.26 :COLOR_BLUE;
+        %tmp.28 = getm $.Toybox.Graphics;
+        %tmp.29 = getv %tmp.28 :COLOR_TRANSPARENT;
+        invoke %tmp.24 %tmp.25(%tmp.27, %tmp.29);
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 64 8 ]
+        %tmp.30 = lgetv %dc.1;
+        %tmp.31 = getv function %tmp.30 :drawText;
+        %tmp.33 = lgetv %width.2;
+        %tmp.34 = 2;
+        %tmp.35 = div %tmp.33 %tmp.34;
+        %tmp.37 = lgetv %height.3;
+        %tmp.38 = 2;
+        %tmp.39 = div %tmp.37 %tmp.38;
+        %tmp.40 = getm $.Toybox.Graphics;
+        %tmp.41 = getv %tmp.40 :FONT_NUMBER_MEDIUM;
+        %tmp.43 = lgetv %timeString.4;
+        %tmp.44 = getm $.Toybox.Graphics;
+        %tmp.45 = getv %tmp.44 :TEXT_JUSTIFY_CENTER;
+        %tmp.46 = getm $.Toybox.Graphics;
+        %tmp.47 = getv %tmp.46 :TEXT_JUSTIFY_VCENTER;
+        %tmp.48 = bitor %tmp.45 %tmp.47;
+        invoke %tmp.30 %tmp.31(%tmp.35, %tmp.39, %tmp.41, %tmp.43, %tmp.48);
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_53_39_66_4_stop:
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 70; ]
+    function onUpdate(dc) {
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_70_26_77_4_start:
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 72 8 ]
+        %tmp.1 = lgetv %dc;
+        %tmp.2 = getv function %tmp.1 :setColor;
+        %tmp.3 = getm $.Toybox.Graphics;
+        %tmp.4 = getv %tmp.3 :COLOR_WHITE;
+        %tmp.5 = getm $.Toybox.Graphics;
+        %tmp.6 = getv %tmp.5 :COLOR_WHITE;
+        invoke %tmp.1 %tmp.2(%tmp.4, %tmp.6);
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 73 8 ]
+        %tmp.7 = lgetv %dc;
+        %tmp.8 = getv function %tmp.7 :clear;
+        invoke %tmp.7 %tmp.8();
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 75 8 ]
+        %tmp.9 = self;
+        %tmp.10 = getv function %tmp.9 :updateTimeLayer;
+        invoke %tmp.9 %tmp.10();
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 76 8 ]
+        ret ?;
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_70_26_77_4_stop:
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 81; ]
+    function onExitSleep() {
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_81_27_83_4_start:
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 82 9 ]
+        %tmp.2 = getv ? :_animationDelegate;
+        %tmp.3 = getv function %tmp.2 :play;
+        invoke %tmp.2 %tmp.3();
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_81_27_83_4_stop:
+    }
+    [ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 86; ]
+    function onEnterSleep() {
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_86_28_88_4_start:
+[ "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc" 87 9 ]
+        %tmp.2 = getv ? :_animationDelegate;
+        %tmp.3 = getv function %tmp.2 :stop;
+        invoke %tmp.2 %tmp.3();
+C_Users_mario_OneDrive_Escritorio_connectiq_apps_master_connectiq_apps_master_watchfaces_DanceDanceGarmin_source_DanceDanceGarminView_mc_86_28_88_4_stop:
+    }
+}
+[ @file = "C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\source\DanceDanceGarminView.mc"; @line = 1; ]
+<init> {
+}

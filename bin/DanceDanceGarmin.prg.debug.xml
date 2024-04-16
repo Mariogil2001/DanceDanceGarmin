@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\mario\OneDrive\Escritorio\connectiq-apps-master\connectiq-apps-master\watchfaces\DanceDanceGarmin\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="1" lineNum="7" parent="globals/Rez" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="2" lineNum="5" parent="globals/DanceDanceAnimationDelegate" pc="268435484" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminApp.mc" id="3" lineNum="3" parent="globals/DanceDanceGarminApp" pc="268435503" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="4" lineNum="6" parent="globals/DanceDanceGarminView" pc="268435522" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="5" lineNum="9" parent="globals/DanceDanceAnimationDelegate" pc="268435541" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="5" lineNum="10" parent="globals/DanceDanceAnimationDelegate" pc="268435543" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="5" lineNum="11" parent="globals/DanceDanceAnimationDelegate" pc="268435561" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="6" lineNum="15" parent="globals/DanceDanceAnimationDelegate" pc="268435572" symbol="onAnimationEvent"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="6" lineNum="16" parent="globals/DanceDanceAnimationDelegate" pc="268435574" symbol="onAnimationEvent"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="6" lineNum="17" parent="globals/DanceDanceAnimationDelegate" pc="268435576" symbol="onAnimationEvent"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="6" lineNum="18" parent="globals/DanceDanceAnimationDelegate" pc="268435596" symbol="onAnimationEvent"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="6" lineNum="19" parent="globals/DanceDanceAnimationDelegate" pc="268435619" symbol="onAnimationEvent"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationDelegate.mc" id="6" lineNum="20" parent="globals/DanceDanceAnimationDelegate" pc="268435637" symbol="onAnimationEvent"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminApp.mc" id="7" lineNum="11" parent="globals/DanceDanceGarminApp" pc="268435642" symbol="onStart"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminApp.mc" id="8" lineNum="19" parent="globals/DanceDanceGarminApp" pc="268435645" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminApp.mc" id="8" lineNum="20" parent="globals/DanceDanceGarminApp" pc="268435647" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminApp.mc" id="8" lineNum="21" parent="globals/DanceDanceGarminApp" pc="268435681" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminApp.mc" id="9" lineNum="6" parent="globals/DanceDanceGarminApp" pc="268435704" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminApp.mc" id="9" lineNum="7" parent="globals/DanceDanceGarminApp" pc="268435706" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminApp.mc" id="10" lineNum="15" parent="globals/DanceDanceGarminApp" pc="268435725" symbol="onStop"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="11" lineNum="64" parent="globals/DanceDanceAnimationController" pc="268435728" symbol="play"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="11" lineNum="65" parent="globals/DanceDanceAnimationController" pc="268435730" symbol="play"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="11" lineNum="66" parent="globals/DanceDanceAnimationController" pc="268435742" symbol="play"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="11" lineNum="69" parent="globals/DanceDanceAnimationController" pc="268435802" symbol="play"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="12" lineNum="12" parent="globals/DanceDanceAnimationController" pc="268435816" symbol="handleOnShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="12" lineNum="13" parent="globals/DanceDanceAnimationController" pc="268435818" symbol="handleOnShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="12" lineNum="15" parent="globals/DanceDanceAnimationController" pc="268435833" symbol="handleOnShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="12" lineNum="24" parent="globals/DanceDanceAnimationController" pc="268435923" symbol="handleOnShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="12" lineNum="26" parent="globals/DanceDanceAnimationController" pc="268435942" symbol="handleOnShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="12" lineNum="27" parent="globals/DanceDanceAnimationController" pc="268435962" symbol="handleOnShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="13" lineNum="39" parent="globals/DanceDanceAnimationController" pc="268435986" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="13" lineNum="40" parent="globals/DanceDanceAnimationController" pc="268435990" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="13" lineNum="42" parent="globals/DanceDanceAnimationController" pc="268436009" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="13" lineNum="43" parent="globals/DanceDanceAnimationController" pc="268436034" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="13" lineNum="45" parent="globals/DanceDanceAnimationController" pc="268436059" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="13" lineNum="55" parent="globals/DanceDanceAnimationController" pc="268436178" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="13" lineNum="56" parent="globals/DanceDanceAnimationController" pc="268436208" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="14" lineNum="73" parent="globals/DanceDanceAnimationController" pc="268436211" symbol="stop"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="14" lineNum="74" parent="globals/DanceDanceAnimationController" pc="268436213" symbol="stop"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="14" lineNum="75" parent="globals/DanceDanceAnimationController" pc="268436224" symbol="stop"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="14" lineNum="76" parent="globals/DanceDanceAnimationController" pc="268436242" symbol="stop"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="15" lineNum="32" parent="globals/DanceDanceAnimationController" pc="268436256" symbol="handleOnHide"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="15" lineNum="33" parent="globals/DanceDanceAnimationController" pc="268436258" symbol="handleOnHide"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="15" lineNum="34" parent="globals/DanceDanceAnimationController" pc="268436270" symbol="handleOnHide"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="15" lineNum="35" parent="globals/DanceDanceAnimationController" pc="268436279" symbol="handleOnHide"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="16" lineNum="8" parent="globals/DanceDanceAnimationController" pc="268436289" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="16" lineNum="9" parent="globals/DanceDanceAnimationController" pc="268436291" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="17" lineNum="59" parent="globals/DanceDanceAnimationController" pc="268436302" symbol="getTextLayer"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceAnimationController.mc" id="17" lineNum="60" parent="globals/DanceDanceAnimationController" pc="268436304" symbol="getTextLayer"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="18" lineNum="81" parent="globals/DanceDanceGarminView" pc="268436313" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="18" lineNum="82" parent="globals/DanceDanceGarminView" pc="268436315" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="19" lineNum="22" parent="globals/DanceDanceGarminView" pc="268436334" symbol="onShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="19" lineNum="23" parent="globals/DanceDanceGarminView" pc="268436336" symbol="onShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="19" lineNum="24" parent="globals/DanceDanceGarminView" pc="268436356" symbol="onShow"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="20" lineNum="16" parent="globals/DanceDanceGarminView" pc="268436375" symbol="onLayout"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="21" lineNum="86" parent="globals/DanceDanceGarminView" pc="268436378" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="21" lineNum="87" parent="globals/DanceDanceGarminView" pc="268436380" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="22" lineNum="10" parent="globals/DanceDanceGarminView" pc="268436399" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="22" lineNum="11" parent="globals/DanceDanceGarminView" pc="268436401" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="22" lineNum="12" parent="globals/DanceDanceGarminView" pc="268436419" symbol="initialize"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="23" lineNum="30" parent="globals/DanceDanceGarminView" pc="268436454" symbol="onHide"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="23" lineNum="31" parent="globals/DanceDanceGarminView" pc="268436456" symbol="onHide"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="24" lineNum="35" parent="globals/DanceDanceGarminView" pc="268436477" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="24" lineNum="36" parent="globals/DanceDanceGarminView" pc="268436481" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="24" lineNum="39" parent="globals/DanceDanceGarminView" pc="268436498" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="24" lineNum="48" parent="globals/DanceDanceGarminView" pc="268436508" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="53" parent="globals/DanceDanceGarminView" pc="268436575" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="54" parent="globals/DanceDanceGarminView" pc="268436579" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="55" parent="globals/DanceDanceGarminView" pc="268436607" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="56" parent="globals/DanceDanceGarminView" pc="268436620" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="59" parent="globals/DanceDanceGarminView" pc="268436633" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="60" parent="globals/DanceDanceGarminView" pc="268436646" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="61" parent="globals/DanceDanceGarminView" pc="268436668" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="63" parent="globals/DanceDanceGarminView" pc="268436680" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="25" lineNum="64" parent="globals/DanceDanceGarminView" pc="268436702" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="26" lineNum="70" parent="globals/DanceDanceGarminView" pc="268436743" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="26" lineNum="72" parent="globals/DanceDanceGarminView" pc="268436745" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="26" lineNum="73" parent="globals/DanceDanceGarminView" pc="268436767" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="26" lineNum="75" parent="globals/DanceDanceGarminView" pc="268436779" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\source\\DanceDanceGarminView.mc" id="26" lineNum="76" parent="globals/DanceDanceGarminView" pc="268436791" symbol="onUpdate"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="27" lineNum="11" parent="globals/Rez/Drawables/background" pc="268436792" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="28" lineNum="36" parent="globals/Rez/Layouts" pc="268436811" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="28" lineNum="37" parent="globals/Rez/Layouts" pc="268436823" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="28" lineNum="38" parent="globals/Rez/Layouts" pc="268436863" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="28" lineNum="39" parent="globals/Rez/Layouts" pc="268436875" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="28" lineNum="42" parent="globals/Rez/Layouts" pc="268436891" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="28" lineNum="44" parent="globals/Rez/Layouts" pc="268437026" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="29" lineNum="13" parent="globals/Rez/Drawables/background" pc="268437053" symbol="initialize"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="29" lineNum="14" parent="globals/Rez/Drawables/background" pc="268437055" symbol="initialize"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="30" lineNum="17" parent="globals/Rez/Drawables/background" pc="268437080" symbol="draw"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="30" lineNum="18" parent="globals/Rez/Drawables/background" pc="268437082" symbol="draw"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="30" lineNum="19" parent="globals/Rez/Drawables/background" pc="268437093" symbol="draw"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="30" lineNum="20" parent="globals/Rez/Drawables/background" pc="268437105" symbol="draw"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="30" lineNum="24" parent="globals/Rez/Drawables/background" pc="268437112" symbol="draw"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="30" lineNum="25" parent="globals/Rez/Drawables/background" pc="268437134" symbol="draw"/>
+        <entry filename="c:\\Users\\mario\\OneDrive\\Escritorio\\connectiq-apps-master\\connectiq-apps-master\\watchfaces\\DanceDanceGarmin\\bin\\gen\\006-B3113-00\\source\\Rez.mcgen" id="30" lineNum="26" parent="globals/Rez/Drawables/background" pc="268437166" symbol="draw"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="8391333" symbol="delegate"/>
+        <entry field="true" id="15" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;_textLayer&gt;"/>
+        <entry id="8" object="true" symbol="DanceDanceGarminApp"/>
+        <entry id="21" method="true" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;getTimeString&gt;"/>
+        <entry field="true" id="30" symbol="StepGoal"/>
+        <entry field="true" id="28" symbol="FloorsClimbedGoal"/>
+        <entry id="8391722" symbol="colorDepth"/>
+        <entry field="true" id="29" symbol="GenericGoal"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="9" object="true" symbol="DanceDanceGarminView"/>
+        <entry field="true" id="26" symbol="ActiveMinutesGoal"/>
+        <entry field="true" id="27" symbol="AppName"/>
+        <entry id="5" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="14" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;_playing&gt;"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry field="true" id="8391300" method="true" symbol="isVisible"/>
+        <entry id="8391445" symbol="visibility"/>
+        <entry id="8391298" method="true" symbol="play"/>
+        <entry id="7" object="true" symbol="DanceDanceAnimationDelegate"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8389892" object="true" symbol="background"/>
+        <entry id="6" object="true" symbol="DanceDanceAnimationController"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8391314" method="true" symbol="onAnimationEvent"/>
+        <entry id="8388699" method="true" symbol="stop"/>
+        <entry id="16" method="true" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;"/>
+        <entry field="true" id="13" symbol="&lt;globals/DanceDanceAnimationController/&lt;&gt;_animation&gt;"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="23" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="19" method="true" symbol="handleOnShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="17" method="true" symbol="getTextLayer"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="22" method="true" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;"/>
+        <entry field="true" id="25" symbol="squirtle"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="11" symbol="_controller"/>
+        <entry id="10" module="true" symbol="Layouts"/>
+        <entry field="true" id="12" symbol="&lt;globals/DanceDanceGarminApp/&lt;&gt;_view&gt;"/>
+        <entry field="true" id="24" symbol="monkey"/>
+        <entry field="true" id="20" symbol="&lt;globals/DanceDanceGarminView/&lt;&gt;_animationDelegate&gt;"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="18" method="true" symbol="handleOnHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435571" name="controller" stackId="1" startPc="268435541"/>
+        <entry arg="true" endPc="268435641" name="event" stackId="1" startPc="268435572"/>
+        <entry arg="true" endPc="268435641" name="options" stackId="2" startPc="268435572"/>
+        <entry arg="true" endPc="268435985" name="view" stackId="1" startPc="268435816"/>
+        <entry endPc="268436210" name="info" stackId="1" startPc="268435990"/>
+        <entry endPc="268436210" name="width" stackId="2" startPc="268435990"/>
+        <entry endPc="268436210" name="height" stackId="3" startPc="268435990"/>
+        <entry endPc="268436210" name="options" stackId="4" startPc="268435990"/>
+        <entry endPc="268436210" name="textLayer" stackId="5" startPc="268435990"/>
+        <entry arg="true" endPc="268436288" name="view" stackId="1" startPc="268436256"/>
+        <entry endPc="268436574" name="clockTime" stackId="1" startPc="268436481"/>
+        <entry endPc="268436574" name="hour" stackId="2" startPc="268436481"/>
+        <entry endPc="268436741" name="dc" stackId="1" startPc="268436579"/>
+        <entry endPc="268436741" name="width" stackId="2" startPc="268436579"/>
+        <entry endPc="268436741" name="height" stackId="3" startPc="268436579"/>
+        <entry endPc="268436741" name="timeString" stackId="4" startPc="268436579"/>
+        <entry arg="true" endPc="268436791" name="dc" stackId="1" startPc="268436743"/>
+        <entry arg="true" endPc="268437052" name="dc" stackId="1" startPc="268436811"/>
+        <entry endPc="268437052" name="rez_cmp_local_custom_drawable_background" stackId="2" startPc="268436823"/>
+        <entry endPc="268437052" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436823"/>
+        <entry arg="true" endPc="268437188" name="dc" stackId="1" startPc="268437080"/>
+    </localVars>
+    <deviceInfo partNumber="006-B3113-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="GenericGoal"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ActiveMinutesGoal"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="monkey"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="StepGoal"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="squirtle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="FloorsClimbedGoal"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="63" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Rez" offset="142" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/DanceDanceAnimationDelegate" offset="197" parentId="globals" symbolId="DanceDanceAnimationDelegate" type="class"/>
+        <dataEntry label="globals/DanceDanceGarminApp" offset="260" parentId="globals" symbolId="DanceDanceGarminApp" type="class"/>
+        <dataEntry label="globals/DanceDanceAnimationController" offset="339" parentId="globals" symbolId="DanceDanceAnimationController" type="class"/>
+        <dataEntry label="globals/DanceDanceGarminView" offset="458" parentId="globals" symbolId="DanceDanceGarminView" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="577" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="640" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="679" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/background" offset="750" parentId="Drawables" symbolId="background" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435483" name="&lt;init&gt;" parent="Rez" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435502" name="&lt;init&gt;" parent="DanceDanceAnimationDelegate" startPc="268435484">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435521" name="&lt;init&gt;" parent="DanceDanceGarminApp" startPc="268435503">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="DanceDanceAnimationController">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435540" name="&lt;init&gt;" parent="DanceDanceGarminView" startPc="268435522">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435571" name="initialize" parent="DanceDanceAnimationDelegate" startPc="268435541">
+            <param id="controller"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435641" name="onAnimationEvent" parent="DanceDanceAnimationDelegate" startPc="268435572">
+            <param id="event"/>
+            <param id="options"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435644" name="onStart" parent="DanceDanceGarminApp" startPc="268435642">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435703" name="getInitialView" parent="DanceDanceGarminApp" startPc="268435645">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435724" name="initialize" parent="DanceDanceGarminApp" startPc="268435704">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435727" name="onStop" parent="DanceDanceGarminApp" startPc="268435725">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435815" name="play" parent="DanceDanceAnimationController" startPc="268435728">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435985" name="handleOnShow" parent="DanceDanceAnimationController" startPc="268435816">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436210" name="&lt;globals/DanceDanceAnimationController/&lt;&gt;buildTextLayer&gt;" parent="DanceDanceAnimationController" startPc="268435986">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436255" name="stop" parent="DanceDanceAnimationController" startPc="268436211">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436288" name="handleOnHide" parent="DanceDanceAnimationController" startPc="268436256">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436301" name="initialize" parent="DanceDanceAnimationController" startPc="268436289">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436312" name="getTextLayer" parent="DanceDanceAnimationController" startPc="268436302">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436333" name="onExitSleep" parent="DanceDanceGarminView" startPc="268436313">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436374" name="onShow" parent="DanceDanceGarminView" startPc="268436334">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436377" name="onLayout" parent="DanceDanceGarminView" startPc="268436375">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436398" name="onEnterSleep" parent="DanceDanceGarminView" startPc="268436378">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436453" name="initialize" parent="DanceDanceGarminView" startPc="268436399">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436476" name="onHide" parent="DanceDanceGarminView" startPc="268436454">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436574" name="&lt;globals/DanceDanceGarminView/&lt;&gt;getTimeString&gt;" parent="DanceDanceGarminView" startPc="268436477">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436742" name="&lt;globals/DanceDanceGarminView/&lt;&gt;updateTimeLayer&gt;" parent="DanceDanceGarminView" startPc="268436575">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436791" name="onUpdate" parent="DanceDanceGarminView" startPc="268436743">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436810" name="&lt;init&gt;" parent="background" startPc="268436792">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437052" name="WatchFace" parent="Layouts" startPc="268436811">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437079" name="initialize" parent="background" startPc="268437053">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437188" name="draw" parent="background" startPc="268437080">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
